@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nollan Holley | Chester Palen-Michel</title>
+    <link>/author/nollan-holley/</link>
+      <atom:link href="/author/nollan-holley/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nollan Holley</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu4fe19440a8c66a677f71daa86bd19001_10498_512x512_fill_lanczos_center_2.png</url>
+      <title>Nollan Holley</title>
+      <link>/author/nollan-holley/</link>
+    </image>
+    
+    <item>
+      <title>SeqScore: Addressing Barriers to Reproducible Named Entity Recognition Evaluation</title>
+      <link>/publication/seqscore/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/seqscore/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

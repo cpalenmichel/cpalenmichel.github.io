@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Adelani | Chester Palen-Michel</title>
+    <link>/author/david-adelani/</link>
+      <atom:link href="/author/david-adelani/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Adelani</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu4fe19440a8c66a677f71daa86bd19001_10498_512x512_fill_lanczos_center_2.png</url>
+      <title>David Adelani</title>
+      <link>/author/david-adelani/</link>
+    </image>
+    
+    <item>
+      <title>MasakhaNER: Named Entity Recognition for African Languages</title>
+      <link>/publication/masakhaner/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/masakhaner/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

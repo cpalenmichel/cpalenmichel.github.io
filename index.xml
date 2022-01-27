@@ -5,12 +5,28 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Chester Palen-Michel</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu4fe19440a8c66a677f71daa86bd19001_10498_512x512_fill_lanczos_center_2.png</url>
       <title>Chester Palen-Michel</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>SeqScore: Addressing Barriers to Reproducible Named Entity Recognition Evaluation</title>
+      <link>/publication/seqscore/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/seqscore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MasakhaNER: Named Entity Recognition for African Languages</title>
+      <link>/publication/masakhaner/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/masakhaner/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Saral: A low-resource cross-lingual domain-focused information retrieval system for effective rapid document triage</title>
