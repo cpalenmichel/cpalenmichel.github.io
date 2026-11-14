@@ -5,25 +5,105 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu4fe19440a8c66a677f71daa86bd19001_10498_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu_8e22bb308da8b9b9.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
     
     <item>
+      <title>Comparing Approaches to Automatic Summarization in Less-Resourced Languages</title>
+      <link>/publication/summarization-less-resourced/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/summarization-less-resourced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenNER 1.0: Standardized Open-Access Named Entity Recognition Datasets in 50&#43; Languages</title>
+      <link>/publication/openner/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/openner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing Methods for Overcoming Data Scarcity in Less-Resourced Natural Language Processing</title>
+      <link>/publication/dissertation/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/dissertation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating LLM Applications in E-Commerce</title>
+      <link>/publication/llm-ecommerce/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/llm-ecommerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brandeis at VarDial 2024 DSL-ML Shared Task: Multilingual Models, Simple Baselines and Data Augmentation</title>
+      <link>/publication/vardial-2024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/vardial-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QueryNER: Segmentation of E-commerce Queries</title>
+      <link>/publication/queryner/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/queryner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Are the Implications of Your Question? Non-Information Seeking Question-Type Identification in CNN Transcripts</title>
+      <link>/publication/question-types/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/question-types/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LR-Sum: Summarization for Less-Resourced Languages</title>
+      <link>/publication/lr-sum/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/lr-sum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MasakhaNER 2.0: Africa-centric Transfer Learning for Named Entity Recognition</title>
+      <link>/publication/masakhaner-2-0/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/masakhaner-2-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multilingual Open Text Release 1: Public Domain News in 44 Languages</title>
       <link>/publication/mot/</link>
-      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       <guid>/publication/mot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward More Meaningful Resources for Lower-resourced Languages</title>
+      <link>/publication/lower-resourced-resources/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/lower-resourced-resources/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SeqScore: Addressing Barriers to Reproducible Named Entity Recognition Evaluation</title>
       <link>/publication/seqscore/</link>
-      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       <guid>/publication/seqscore/</guid>
       <description></description>
     </item>
@@ -31,7 +111,7 @@
     <item>
       <title>MasakhaNER: Named Entity Recognition for African Languages</title>
       <link>/publication/masakhaner/</link>
-      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       <guid>/publication/masakhaner/</guid>
       <description></description>
     </item>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maya Kruse | Chester Palen-Michel</title>
+    <link>/author/maya-kruse/</link>
+      <atom:link href="/author/maya-kruse/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maya Kruse</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu_8e22bb308da8b9b9.png</url>
+      <title>Maya Kruse</title>
+      <link>/author/maya-kruse/</link>
+    </image>
+    
+    <item>
+      <title>OpenNER 1.0: Standardized Open-Access Named Entity Recognition Datasets in 50&#43; Languages</title>
+      <link>/publication/openner/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/openner/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

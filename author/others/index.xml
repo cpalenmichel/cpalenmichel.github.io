@@ -1,30 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title> others | Chester Palen-Michel</title>
+    <title>Others | Chester Palen-Michel</title>
     <link>/author/others/</link>
       <atom:link href="/author/others/index.xml" rel="self" type="application/rss+xml" />
-    <description> others</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <description>Others</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu4fe19440a8c66a677f71daa86bd19001_10498_512x512_fill_lanczos_center_2.png</url>
-      <title> others</title>
+      <url>/images/icon_hu_8e22bb308da8b9b9.png</url>
+      <title>Others</title>
       <link>/author/others/</link>
     </image>
     
     <item>
       <title>MasakhaNER: Named Entity Recognition for African Languages</title>
       <link>/publication/masakhaner/</link>
-      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       <guid>/publication/masakhaner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Saral: A low-resource cross-lingual domain-focused information retrieval system for effective rapid document triage</title>
-      <link>/publication/boschee-2019-saral/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/boschee-2019-saral/</guid>
       <description></description>
     </item>
     

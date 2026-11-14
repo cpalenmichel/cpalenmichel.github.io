@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lizzie Liang | Chester Palen-Michel</title>
+    <link>/author/lizzie-liang/</link>
+      <atom:link href="/author/lizzie-liang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lizzie Liang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu_8e22bb308da8b9b9.png</url>
+      <title>Lizzie Liang</title>
+      <link>/author/lizzie-liang/</link>
+    </image>
+    
+    <item>
+      <title>QueryNER: Segmentation of E-commerce Queries</title>
+      <link>/publication/queryner/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/queryner/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

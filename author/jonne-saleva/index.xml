@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonne Sälevä | Chester Palen-Michel</title>
+    <link>/author/jonne-saleva/</link>
+      <atom:link href="/author/jonne-saleva/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jonne Sälevä</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu_8e22bb308da8b9b9.png</url>
+      <title>Jonne Sälevä</title>
+      <link>/author/jonne-saleva/</link>
+    </image>
+    
+    <item>
+      <title>OpenNER 1.0: Standardized Open-Access Named Entity Recognition Datasets in 50&#43; Languages</title>
+      <link>/publication/openner/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/openner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brandeis at VarDial 2024 DSL-ML Shared Task: Multilingual Models, Simple Baselines and Data Augmentation</title>
+      <link>/publication/vardial-2024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/vardial-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward More Meaningful Resources for Lower-resourced Languages</title>
+      <link>/publication/lower-resourced-resources/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/lower-resourced-resources/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

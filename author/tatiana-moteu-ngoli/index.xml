@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tatiana Moteu Ngoli | Chester Palen-Michel</title>
+    <link>/author/tatiana-moteu-ngoli/</link>
+      <atom:link href="/author/tatiana-moteu-ngoli/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tatiana Moteu Ngoli</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu_8e22bb308da8b9b9.png</url>
+      <title>Tatiana Moteu Ngoli</title>
+      <link>/author/tatiana-moteu-ngoli/</link>
+    </image>
+    
+    <item>
+      <title>MasakhaNER 2.0: Africa-centric Transfer Learning for Named Entity Recognition</title>
+      <link>/publication/masakhaner-2-0/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/masakhaner-2-0/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
